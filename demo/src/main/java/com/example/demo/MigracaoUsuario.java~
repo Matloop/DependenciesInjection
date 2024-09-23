@@ -1,0 +1,12 @@
+package com.example.demo;
+
+import java.io.FileReader;
+
+public class MigracaoUsuario {
+    FileReader reader = new FileReader();
+    
+    void migrar(){
+        //Ler usuarios A
+        //Escrever usuários B
+    }
+}
